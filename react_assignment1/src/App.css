@@ -1,0 +1,27 @@
+table {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  box-shadow: 5px 5px 5px 5px #CCC;
+}
+th{
+  border: 1px solid #ddd;
+  padding : 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  text-align: left;
+  background-color: lightslategrey;
+  color: white;
+} 
+td{
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+.count_of_users{
+  text-align: right;
+  padding-right: 8px;
+}
+.table-header{
+  padding : 10px;
+  padding-right : 10px;
+}
