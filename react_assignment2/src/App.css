@@ -1,0 +1,24 @@
+.links{
+  float : center;
+  padding-top : 20px;
+  padding-left : 10px;
+  padding-bottom : 20px;
+}
+.list_of_users{
+  padding-left : 10px;
+}
+.checkbox_value{
+  padding-left : 10px;
+  padding-bottom : 10px;
+  font-style: solid thick black;
+}
+.todos,.comments,.posts,.users{
+  padding-left : 10px;
+  padding-bottom : 10px;
+  box-shadow: 5px 5px 5px 5px #CCC;
+}
+.count_of_posts,.count_of_comments,.count_of_users{
+  padding-bottom : 10px;
+  padding-right : 10px;
+  text-align : right;
+}
