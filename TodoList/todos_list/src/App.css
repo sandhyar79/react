@@ -1,0 +1,18 @@
+.input-group.md-form.form-sm.form-1 input{
+  border: 1px solid #bdbdbd;
+  border-top-right-radius: 0.25rem;
+  border-bottom-right-radius: 0.25rem;
+  width : 500px;
+  background-color: skyblue;
+  margin-left : 20px;
+}
+.todo{
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-color: rgb(216, 208, 208);
+  border-style: solid;
+  width : 700px;
+  margin-left: 20px;
+  padding-right: 5px;
+  padding-left: 5px;
+}
